@@ -1,0 +1,112 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="/usr/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.7/site-packages" type="simple" />
+            <root url="file:///usr/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (doppler)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="$USER_HOME$/razorpay/doppler/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/razorpay/doppler/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/razorpay/doppler/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/razorpay/doppler/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1641045252" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/razorpay/doppler" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (datum)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/razorpay/datahub_datum/datum/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/razorpay/datahub_datum/datum/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1065688911" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/razorpay/datahub_datum/datum" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (harvester)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="$USER_HOME$/razorpay/harvester/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/razorpay/harvester/venv/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/razorpay/harvester/venv/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-linux2" type="simple" />
+            <root url="file:///usr/lib64/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/razorpay/harvester/venv/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/604377644" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/razorpay/harvester" />
+    </jdk>
+  </component>
+</application>

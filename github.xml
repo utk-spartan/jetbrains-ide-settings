@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="ce021802-e0b1-4084-b6dd-96b64deac2ba" name="utk-spartan">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

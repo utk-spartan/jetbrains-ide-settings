@@ -1,9 +1,0 @@
-<application>
-  <component name="GoDep">
-    <exec-paths>
-      <list>
-        <option value="$USER_HOME$/go/bin/dep" />
-      </list>
-    </exec-paths>
-  </component>
-</application>
