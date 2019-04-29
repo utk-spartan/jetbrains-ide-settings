@@ -1,12 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-5f01ebeb:1687009192e:-8000" />
-    <option name="version" value="3.9.2" />
+    <option name="version" value="3.9.2.1" />
   </component>
 </application>
