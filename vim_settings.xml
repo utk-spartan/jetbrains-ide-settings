@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/razorpay/datahub/datum/datum/controllers/status.py" timestamp="1548129126665">
@@ -15,7 +15,12 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/razorpay/harvester/harvester/providers/logger/handler.py" timestamp="1548129391195" />
+      <file name="$USER_HOME$/razorpay/datahub_datum/datum/datum/celery/tasks.py" timestamp="1560168835038">
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="35" column="30" />
+        <mark key="^" line="35" column="30" />
+        <mark key="." line="35" column="30" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -50,6 +55,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
