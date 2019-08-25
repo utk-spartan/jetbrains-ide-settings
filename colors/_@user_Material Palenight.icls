@@ -1,16 +1,17 @@
 <scheme name="_@user_Material Palenight" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.75" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-21T16:21:11</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-21T16:25:37</property>
+    <property name="modified">2019-08-25T19:56:58</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="21" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -133,7 +134,7 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
@@ -1369,7 +1370,6 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddf7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
