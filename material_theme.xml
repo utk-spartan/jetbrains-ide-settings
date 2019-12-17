@@ -2,10 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-5f01ebeb:1687009192e:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
